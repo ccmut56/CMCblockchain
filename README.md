@@ -1,5 +1,5 @@
 # CMCblockchain
-Waves custom blockchain crypto mutualcoin
+Waves custom blockchain crypto mutual coin
 genesis-generator {
   network-type: "L" # your custom network identifier byte
 
