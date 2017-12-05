@@ -3,7 +3,7 @@ Waves custom blockchain crypto mutual coin
 genesis-generator {
   network-type: "L" # your custom network identifier byte
 
-  initial-balance: 10000000000000000 # initial balance in wavelets
+  initial-balance: 20000000000000000 # initial balance in wavelets
   base-target: 153722867 # the initial complexity parameter
   average-block-delay: 60s # average block delay
   timestamp: 1500635421931 # comment this to use the current time
@@ -11,7 +11,7 @@ genesis-generator {
   # seed text -> share
   # the sum of shares should be <= initial-balance
   distributions {
-    "foo0": 10000000000000
+    "foo0": 20000000000000
   }
 }
 Addresses:
